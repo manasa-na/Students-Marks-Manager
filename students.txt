@@ -1,0 +1,6 @@
+Student Marks Manager Initialized
+Name:Manasa Marks:[100, 100, 100]
+Name:Sheeli Marks:[100, 100, 100]
+Name:Prathyusha Marks:[99, 95, 92]
+Name:Manasi Marks:[90, 93, 95]
+Name:Pooja Marks:[90, 88, 85]
